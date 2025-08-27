@@ -1,0 +1,7 @@
+Results:
+
+Parachor_TOTM: 1290.1428 cm^3 / mol
+Surface_tension_333.07K: 26.2485
+sigma_0: 52.0543
+Critical_Temperature: 823.1165 K
+
